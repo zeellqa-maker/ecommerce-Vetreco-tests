@@ -13,5 +13,8 @@ test('Locators',async ({page}) => {
     await expect(logoutlink).toBeVisible();
     await page.close();
 
+
+
+    
 })
 
